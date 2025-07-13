@@ -1,1 +1,5 @@
-# gentrification_risk_forecasting
+# ASA DataFest 2025: Gentrification Risk Forecasting Presentation
+
+Included in this repository is the slideshow for the project and our celebratory post-presentation photo. As part of a 48-hour nationwide data challenge, my team and I analyzed a massive real estate dataset to predict which U.S. submarkets are most at risk for commercial gentrification. We developed and compared machine learning models (Logistic Regression and XGBoost), achieving strong accuracy, and built an interactive GIS dashboard using Shiny to visualize at-risk regions in real time. Our approach combined predictive modeling with thoughtful data visualization, ultimately earning us the Best Data Visualization award, as voted by faculty and alumni. This project was a real growth moment for me, reflecting not just technical skills in modeling and non-parametric analysis, but also the ability to communicate complex results clearly to a wider audience.
+
+Due to a signed NDA (expired early May 2025), we were unable to keep the original dataset or project code, but I was able to retain and share our presentation slides.
